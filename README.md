@@ -10,6 +10,7 @@
 1. [A Tribute to Muse](#a-tribute-to-muse) - an introduction
 2. [Updates](#updates)
     - [Updated Features](#updated-features)
+3. [Links](#links)
  
 
 # Updates
@@ -33,3 +34,9 @@ Here is a list of some new and/or changed features:
     - I've changed the layouts of some of the sections.
 - I'm very proud to say that this page is now fully responsive (from 325px all the way up). The prior version was not. I absolutely love how the layouts turned out for this one.
 - You can now click on an album cover, which will take you to that album's full album on Youtube.
+
+# Links
+
+1. [Live Demo](https://risclover.github.io/Muse)
+2. [Code Repo](https://www.github.com/Risclover/Muse)
+3. [Project Breakdown](https://risclover.github.io/official-portfolio/blog/project_breakdown_muse.html)
