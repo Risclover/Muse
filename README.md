@@ -28,6 +28,7 @@ And here is the current, redone version of this page:
 
 ## Updated Features
 Here is a list of some new and/or changed features:
+- Under Band Members is each band member's age. I used JavaScript to make sure that this age is always accurate.
 - I added a navigation bar at the top. Clicking on one of the items makes the page jump to that section.
 - After you scroll down a little bit, a small button with a hand icon appears in the bottom right-hand corner. This is a subtle "Back to Top" button, and clicking it brings you, well, back to the top of the page.
 - The "Discography" section now has a button that says "Show Tracks". Clicking on this opens the list of tracks for that album. You can click on the button again (which now says "Hide Tracks") to close the list.
