@@ -1,13 +1,18 @@
-# Muse
+# A Tribute to Muse
+03/01/2022 - This page - titled "A Tribute to Muse" - was my very first time using JavaScript on my own. Although it isn't anything extraordinary, it helped enhance my page a little bit in ways that are listed under the (Update(s))[#updated-features] section.
+
+
+
+
 
 ## Table of Contents
 
-1. Update(s)
+1. (A Tribute to Muse)[#a-tribute-to-muse] - an introduction
+2. Update(s)
+    - (List of Updated Features)[#updated-features]
  
 
 # Update(s)
-03/01/2022 - This Muse tribute page was my very first time using JavaScript on my own. Although it isn't anything extraordinary, it helped enhance my page a little bit.
-
 This page is actually a redo of another Muse page that ended up looking like this (which you'll find is actually fairly similar to my redo):
 
 ![](muse_v1.png)
