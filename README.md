@@ -8,11 +8,11 @@
 ## Table of Contents
 
 1. [A Tribute to Muse](#a-tribute-to-muse) - an introduction
-2. [Updated Features](#updated-features)
-    - (List of Updated Features)[#updated-features]
+2. [Updates](#updates)
+    - [Updated Features](#updated-features)
  
 
-# Update(s)
+# Updates
 This page is actually a redo of another Muse page that ended up looking like this (which you'll find is actually fairly similar to my redo):
 
 ![](muse_v1.png)
