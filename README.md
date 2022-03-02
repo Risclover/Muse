@@ -1,7 +1,9 @@
 # A Tribute to Muse
 03/01/2022 - This page - titled "A Tribute to Muse" - was my very first time using JavaScript on my own. Although it isn't anything extraordinary, it helped enhance my page a little bit in ways that are listed under the [Updated Features](#updated-features) section.
 
-I originally did this project as a result of [freeCodeCamp's](https://www.freecodecamp.org) [Responsive Web Design curriculum](https://www.freecodecamp.org/learn/responsive-web-design/#responsive-web-design-projects), whose first project is to create a page paying tribute to someone you admire. Because Muse is my all-time favorite band, the decision was easy.
+I originally did this project as a result of [freeCodeCamp's](https://www.freecodecamp.org) [Responsive Web Design curriculum](https://www.freecodecamp.org/learn/responsive-web-design/#responsive-web-design-projects), whose first project is to create a page paying tribute to someone you admire. Because Muse is my all-time favorite band, the subject for this project was easy for me to pick.
+
+The original project doesn't say anything about using JavaScript, but when I decided to redo the project, I implemented some JavaScript anyway, just to make the page a little better in some areas.
 
 
 
