@@ -1,5 +1,5 @@
 # A Tribute to Muse
-03/01/2022 - This page - titled "A Tribute to Muse" - was my very first time using JavaScript on my own. Although it isn't anything extraordinary, it helped enhance my page a little bit in ways that are listed under the (Update(s))[#updated-features] section.
+03/01/2022 - This page - titled "A Tribute to Muse" - was my very first time using JavaScript on my own. Although it isn't anything extraordinary, it helped enhance my page a little bit in ways that are listed under the (Updated Features)[#updated-features] section.
 
 
 
