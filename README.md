@@ -26,5 +26,5 @@ Here is a list of some new and/or changed features:
 - Most obviously, I've changed the appearance of the page a bit.
     - Instead of white text on a black background, I now have a gradient background that changes a few different colors as you go down the page.
     - I've changed the layouts of some of the sections.
-- This page is now fully responsive (from 325px all the way up). The prior version was not.
+- I'm very proud to say that this page is now fully responsive (from 325px all the way up). The prior version was not. I absolutely love how the layouts turned out for this one.
 - You can now click on an album cover, which will take you to that album's full album on Youtube.
