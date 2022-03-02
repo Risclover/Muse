@@ -6,3 +6,5 @@ This page is actually a redo of another Muse page that ended up looking like thi
 
 ![](muse_v1.png)
 
+![](muse_current.png)
+
